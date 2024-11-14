@@ -1,8 +1,7 @@
-# React + Vite
+# React & Tailwind css
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This a responsive landing page website built with React Js and Tailwind css and for animation AOS library and React icons.
 
-Currently, two official plugins are available:
+Website link available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Explore the Landing Page](https://vercel.com/marouanes-projects-f499e45c/bistro) 
