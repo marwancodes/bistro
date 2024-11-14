@@ -4,4 +4,4 @@ This a responsive landing page website built with React Js and Tailwind css and 
 
 Website link available:
 
-- [Explore the Landing Page](https://vercel.com/marouanes-projects-f499e45c/bistro) 
+- [Explore the Landing Page](bistro-nine.vercel.app) 
